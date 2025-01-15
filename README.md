@@ -30,7 +30,7 @@
 - Gráficos e aplicações.<br />
 
 ## &nbsp;[Link Aqui](https://github.com/danilandgraf/dashboard_dinamico/blob/master/docs/planilha_inteligente.xlsx)  
-
+para baixar o arquivo contendo o Business DashBoard
 
 
   <p><strong>Entre em contato comigo</strong></p>
